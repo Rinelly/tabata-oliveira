@@ -76,13 +76,13 @@ a.links_navegacao button {
     font-size: 1.2em;
     cursor: pointer;
     color: #FFFFFF;
-    transition: .2s;
+    /* transition: .2s; */
 }
 
 a.links_navegacao i {
     font-size: 1.5em;
 }
 
-a.links_navegacao button:hover {
+/* a.links_navegacao button:hover {
     transform: scale(1.05);
-}
+} */
