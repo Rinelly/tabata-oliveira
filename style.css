@@ -87,9 +87,9 @@ a.links_navegacao i {
     flex-direction: column;
     align-items: center;
     gap: 1.5rem;
-    margin: 30px;
+    margin: 10px 0px 0px 0px;
     font-family: "Montserrat", sans-serif;
     color: #B3796C;
     font-weight: 500;
-    font-size: 1.2em;
+    font-size: 0.7em;
 }
