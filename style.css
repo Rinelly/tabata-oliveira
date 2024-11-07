@@ -46,6 +46,7 @@ a {
 }
 
 .cabecalho {
+    margin-top: 25%;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -69,7 +70,7 @@ a.links_navegacao button {
     justify-content: space-between;
     border: none;
     border-radius: 30px;
-    font-size: 1.2em;
+    font-size: 1em;
     cursor: pointer;
     color: #FFFFFF;
 }
@@ -80,6 +81,7 @@ a.links_navegacao i {
 
 .rodape span {
     padding: 10px;
+    margin-top: 10%;
 }
 
 .rodape {
