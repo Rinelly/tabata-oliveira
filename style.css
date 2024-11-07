@@ -88,10 +88,17 @@ a.links_navegacao i {
     color: #B3796C;
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
+    position: absolute;
+    padding: 0px 2px 2px;
 }
 
 .rodape {
     display: flex;
     flex-direction: column;
     align-items: center; 
+    position: relative;
+}
+
+.rodape img {
+    object-fit: cover;
 }
